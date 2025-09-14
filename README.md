@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **my github**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-1-0-gqd0b1kp1-partho221s-projects.vercel.app](https://portfolio-1-0-git-main-partho221s-projects.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio]([https://portfolio-1-0-git-main-partho221s-projects.vercel.app](https://portfolio-1-0-git-main-partho221s-projects.vercel.app))
 
 - 📝 I regularly write articles on [https://x.com/partho221/](https://x.com/partho221/)
 
