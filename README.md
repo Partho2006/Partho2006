@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Parthojoty RoyChowdhury</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Mingle-A real-time chat app**
+- 🔭 I’m currently working on **Quick.ai - An Ai Saas application**
 
 - 🌱 I’m currently learning **Socket.io, DSA, etc.**
 
