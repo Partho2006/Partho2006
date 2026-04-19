@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **my github, Dsa, etc**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-1-0-hlf9rwb0k-partho221s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-1-0-git-main-partho221s-projects.vercel.app/)
 
 - 📝 I regularly write articles on [https://x.com/partho221/](https://x.com/partho221/)
 
